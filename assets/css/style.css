@@ -1,0 +1,10 @@
+/* Custom CSS untuk tombol dan input */
+input#cpp_picture {
+    display: inline-block;
+    width: 70%;
+}
+
+input#cpp_select_image {
+    margin-top: 5px;
+    display: inline-block;
+}
